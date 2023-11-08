@@ -1,1 +1,1 @@
-# Panduan Ubuntu Server 20.04 LTS
+## Dokumen ini berisi panduan setting dan testing untuk delivery
