@@ -10,7 +10,7 @@ Hal-hal yang dapat mendukung dalam memahami langkah-langkah konfigurasi server d
 
 ## Persiapan
 1. Unduh [Ubuntu Server ISO](https://ubuntu.com/download/server)
-2. Persiapkan media instalasi, seperti USB bootable atau CD/DVD.
+2. Persiapkan media instalasi, seperti USB bootable.
 
 ## Proses Instalasi
 1. Masukkan media instalasi yang sudah Anda persiapkan ke dalam komputer server.
